@@ -23,7 +23,7 @@ This project analyzes the relationship between trader behavior and market sentim
 
    ```bash
    git clone https://github.com/<your-username>/ds_<candidate_name>.git  
-   cd ds_<candidate_name>
+   cd ds_<Jayasree_S>
    ```
 2. **Download Required Data**
 
