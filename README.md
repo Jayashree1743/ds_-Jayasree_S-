@@ -6,25 +6,12 @@ This project analyzes the relationship between trader behavior and market sentim
 
 **Key Achievement**: Identified that contrarian trading strategies outperform momentum strategies by 133.6% in average returns, with extreme market sentiment periods presenting unique trading opportunities.
 
-**Repository Structure**
-ds_<candidate_name>/
-├── notebook_1.ipynb # All work should be done in Google Colab
-notebooks.
-├── notebook_2.ipynb # (Optional) Additional Colab notebook if
-needed.
-├── csv_files/ # Store all CSVs or data outputs here.
-│ └── *.csv # Any intermediate or processed data files.
-├── outputs/ # Store all visual outputs, graphs, or charts here.
-│ └── *.png / *.jpg # Image results of EDA, charts, etc.
-├── ds_report.pdf # Final summarized insights and explanations.
-└── README.md # (Optional but encouraged) Setup
-instructions, notes.
 
 **Quick Start**
 
 **Prerequisites**
 - Python 3.8+
-- Google Colab account or local Jupyter Notebook installation
+- Google Colab account 
 - Git installed (for cloning)
 
 **Setup Instructions**
@@ -75,13 +62,15 @@ instructions, notes.
 
 **File Descriptions**
 **Notebooks**
-    -[notebook_1.ipynb](https://colab.research.google.com/drive/1R3_83BPxzTn-g4_HT49t9z6pJkZJ1bqY?usp=sharing): Complete analysis pipeline including: 
+    -[notebook_1.ipynb](https://colab.research.google.com/drive/1R3_83BPxzTn-g4_HT49t9z6pJkZJ1bqY?usp=sharing): 
+      -Complete analysis pipeline including: 
       -Data loading and preprocessing
       -Exploratory data analysis
       -Trader performance segmentation
       -Sentiment integration and correlation analysis
       -Pattern discovery and strategy recommendations
-    -[notebook_2.ipynb](https://colab.research.google.com/drive/1tWLw961rpg9X-MpEt1qjjNMq6L3ARNpL?usp=sharing): Focused Fear & Greed Index analysis: 
+    -[notebook_2.ipynb](https://colab.research.google.com/drive/1tWLw961rpg9X-MpEt1qjjNMq6L3ARNpL?usp=sharing): 
+      -Focused Fear & Greed Index analysis: 
       -Sentiment distribution analysis
       -Trader behavior by sentiment periods
       -Advanced pattern recognition
@@ -141,8 +130,8 @@ instructions, notes.
 -For questions about this analysis or to discuss findings: 
 
      -Email:jayasreeselvam37@gmail.com
-     -GitHub:https://github.com/Jayashree1743
-     -LinkedIn:www.linkedin.com/in/jayasree-selvam-36b24a258
+     -[GitHub](https://github.com/Jayashree1743)
+     -[LinkedIn]:(www.linkedin.com/in/jayasree-selvam-36b24a258)
 **License**
 
     -This project is submitted as part of the Web3 Trading Team data science application. All analysis is for demonstration purposes only.
