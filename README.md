@@ -158,11 +158,5 @@ For questions about this analysis or to discuss findings:
 
 ---
 
-## 📜 License
-
-This project is submitted as part of the Web3 Trading Team data science application. All analysis is for demonstration purposes only.
-**Note**: This analysis was completed as part of a job application for the Web3 Trading Team. The findings demonstrate advanced data science capabilities in cryptocurrency trading analysis and sentiment-based strategy development.
-
----
 
 
