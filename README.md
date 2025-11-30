@@ -1,6 +1,6 @@
 
 
-# **Web3 Trading Team – Trader Behavior vs Market Sentiment Analysis**
+# Trader Behavior vs Market Sentiment Analysis**
 
 ## 🎯 Project Overview
 
